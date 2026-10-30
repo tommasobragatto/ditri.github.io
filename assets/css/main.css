@@ -3794,3 +3794,7 @@ input, select, textarea {
 			}
 
 		}
+		/* Cambio colore del testo generale in blu scuro */
+body, p, li, span, td {
+    color: #0b2545 !important; /* Sostituisci #0b2545 con la tonalità di blu scuro che preferisci */
+}
